@@ -1,0 +1,56 @@
+
+.test_one{
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	border: 2px solid grey;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+.test_two {
+	background-color: blue;
+}
+.test_second_bg {
+	background-color: blue;
+}
+.btn {
+	width: 220px;
+	height: 50px;
+	border-radius: 10px;
+	border: 2px solid grey;
+	background-color: white;
+	outline: none;
+}
+.btn:hover {
+	background-color: grey;
+}
+.btn:focus {
+	background-color: blue;
+}
+.test_three {
+	background-color: red;
+}
+.test_second {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	border: 2px solid grey;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+.btn_second {
+	width: 220px;
+	height: 50px;
+	border-radius: 10px;
+	border: 2px solid grey;
+	background-color: white;
+	outline: none;
+}
+.btn_second:hover {
+	background-color: grey;
+}
+.btn_second:focus {
+	background-color: blue;
+}
