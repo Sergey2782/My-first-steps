@@ -1,0 +1,28 @@
+
+
+.align {
+	width: 40%;
+	margin: auto;
+}
+.box, .box_one, .box_two {
+	width: 100%;
+	border: 1px solid green;
+	text-align: center;
+	margin: auto;
+}
+.box:hover,
+.box_one:hover,
+.box_two:hover {
+    background: blue;
+    opacity: 0.5;
+    transition: 0.3s;
+    color: white;
+}
+
+.buttons {
+	width: inherit;
+	margin:auto;
+	text-align: center;
+	margin-bottom: 5px; 
+	margin-top: 5px;
+}
