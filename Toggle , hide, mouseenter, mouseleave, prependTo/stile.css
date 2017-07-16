@@ -1,0 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css?family=Anton');
+p, p > span {
+	font-family: 'Anton', sans-serif;
+	font-weight: bold;
+}
+tr, td {
+	border: 1px solid black;
+	height: 35px;
+}
